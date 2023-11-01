@@ -10,7 +10,7 @@
 
 **Personal:**
 - [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://github.com/louisaswin/movierepository-)
-- [Wordle Analysis: Exploring Strategies and Optimization](link to repository)
+- [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
 
 **Work:**
 - [Groundwater Project](link to repository)
