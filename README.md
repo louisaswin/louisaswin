@@ -13,7 +13,7 @@
 - [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
 
 **Work:**
-- [Groundwater Project](link to repository)
+- [Groundwater Project](https://github.com/louisaswin/groundwater)
 
 **Future Projects:**
 - Age Gaps in Movie Romances: Unpacking Misogyny in Heterosexual Lead Roles and Its Societal Implications (More details coming soon)
