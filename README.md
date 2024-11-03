@@ -17,7 +17,6 @@
 
 **Future Projects:**
 - Age Gaps in Movie Romances: Unpacking Misogyny in Heterosexual Lead Roles and Its Societal Implications (More details coming soon)
-- Paris Bed Bug Epidemic during Fashion Week: Analyzing the Spread (Pending data availability)
 
 <!---
 louisaswin/louisaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
