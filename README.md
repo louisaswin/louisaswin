@@ -16,7 +16,7 @@
 - [Groundwater Project](https://github.com/louisaswin/groundwater)
 
 **Future Projects:**
-- Age Gaps in Movie Romances: Unpacking Misogyny in Heterosexual Lead Roles and Its Societal Implications (More details coming soon)
+- Age Gaps in Movie Romances: Unpacking Misogyny in Heterosexual Lead Roles and its Societal Implications (More details coming soon)
 
 <!---
 louisaswin/louisaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
