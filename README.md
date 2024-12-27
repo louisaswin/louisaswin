@@ -7,17 +7,7 @@
 - 😊 Feel free to connect with me to discuss any of these interests or to collaborate on exciting projects!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/louisa-swintosky-b375b11a0/)
 
-**Current and Future Projects**
-
-**Personal:**
-- [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://github.com/louisaswin/movierepository-)
-- [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
-
-**Work:**
-- [Groundwater Project](https://github.com/louisaswin/groundwater)
-
-**Future Projects:**
-- Age Gaps in Movie Romances: Unpacking Misogyny in Heterosexual Lead Roles and its Societal Implications (More details coming soon)
+You can find information about my projects on my portfolio.
 
 <!---
 louisaswin/louisaswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
